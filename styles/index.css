@@ -1,9 +1,15 @@
 @import url(./contacts.css);
 @import url(./additionals.css);
+@import url(./skills.css);
 
 body {
   --border-color: #aaaaaa45;
   --text-decoration-color: #21aefa6e;
   --text-hover-color: #64a4ed;
-  --svg-hover-color: #64a4ed;
+  --svg-hover-color: #64a4ed; 
+  background: url(../assets/background.jpg);
+  background-attachment: fixed;
+  background-position: right bottom;
+  background-repeat: no-repeat;
+  background-size: 50%;
 }
