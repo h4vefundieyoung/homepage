@@ -1,0 +1,8 @@
+@import url(./contacts.css);
+
+body {
+  --border-color: #aaaaaa45;
+  --text-decoration-color: #21aefa6e;
+  --text-hover-color: #64a4ed;
+  --svg-hover-color: #64a4ed;
+}

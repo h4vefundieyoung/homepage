@@ -1,0 +1,27 @@
+.contact-info__block {
+  flex: 1;
+}
+
+.contact-info__item span {
+  transition: color .3s ease-in-out;
+}
+
+.contact-info__item-icon-wrapper path {
+  transition: fill .3s ease-in-out;
+}
+
+.contact-info__item:hover path {
+  fill: var(--svg-hover-color)
+}
+.contact-info__item:hover span {
+  color: var(--text-hover-color)
+}
+
+.contact-info__block--center {
+  align-items: center;
+}
+
+.contact-info__items-outer-container {
+  display: flex;
+  justify-content: center;
+}
