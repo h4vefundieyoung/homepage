@@ -1,4 +1,5 @@
 @import url(./contacts.css);
+@import url(./additionals.css);
 
 body {
   --border-color: #aaaaaa45;
