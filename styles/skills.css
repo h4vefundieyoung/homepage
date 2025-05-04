@@ -1,0 +1,26 @@
+.skills-decoration-container {
+  position: relative;
+  overflow: hidden;
+}
+
+.skills__pony-decoration {
+  position: absolute;
+  width: 150px;
+  bottom: 0;
+  right: 50px;
+}
+
+.skills__upper-decoration, .skills__lower-decoration {
+  position: absolute;
+}
+
+.skills__upper-decoration {
+  width: 20%;
+  right: 0;
+  top: -20px
+}
+
+.skills__lower-decoration {
+  bottom: -30px;
+  right: 85px;
+}

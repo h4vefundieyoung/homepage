@@ -1,0 +1,27 @@
+.additionals-info__flex-container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 15px;
+}
+
+.additional-info__education {
+  margin: 0;
+}
+
+.additional-info__education-university-speciality {
+  margin-top: 10px;
+}
+
+.experiences {
+  display: flex;
+  flex-direction: column;
+  row-gap: 15px;
+}
+
+.experiences__company-header-name {
+  margin: 0
+}
+
+.experiences__company-project {
+  margin: 15px 0 25px 15px
+}
